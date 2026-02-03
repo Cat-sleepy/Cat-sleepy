@@ -10,37 +10,37 @@ Driven by curiosity, attentive to detail, and deeply passionate about the inters
 
 
 <br> 
+<br>
+<h2>EDUCATION:</h2>
 
-<p>------------------------------------------------</p>
-<h3>EDUCATION: </h3>
-<p>------------------------------------------------</p>
 <p>--->> ServiceNow  //  IPCA</p>
 <p>--->> Media Arts  //  uMinho</p>
 <p>--->> Multimedia Art  //  ISMAI</p>
 <p>--->> Photography  //  IPF</p>
 <br>
+<br>
+<h2>WHAT DID ALL OF THIS EDUCATION GAVE ME?</h2>
 
-<p>------------------------------------------------</p>
-<h3>WHAT DID ALL OF THIS EDUCATION GAVE ME?</h3>
-<p>------------------------------------------------</p>
 <p>--->> Anxiety</p>
 <p>--->> Night Terrors</p>
 <p>--->> Headaches</p>
 <p>--->> A little bit of Depression too</p>
 <br>
+<br>
 
-<p>------------------------------------------------</p>
-<h3>IF YOU NEED A:</h3>
-<p>------------------------------------------------</p>
+<h2>HOWEVER IF YOU NEED A:</h2>
+
     <p>**Visual Artist**</p>
     <p>**Communication Designer**</p>
     <p>**Photographer**</p>
 
 <br>
+<br>
 
 <h3>CONTACT ME</h3>
 <p>https://www.linkedin.com/in/catarina-pintoferreira</p>
-<br>      
+<br>
+<br>
 
 
 Night Night 😴
