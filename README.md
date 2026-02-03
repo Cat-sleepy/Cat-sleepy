@@ -28,18 +28,18 @@ Driven by curiosity, attentive to detail, and deeply passionate about the inters
 <br>
 <br>
 
-<h3>HOWEVER IF YOU NEED A:</h3>
+<h2>HOWEVER IF YOU NEED A:</h2>
 
-    **Visual Artist**
+    <h5> 🎥 Visual Artist </h5>
     
-    **Communication Designer**
+    <h5> 💻 Communication Designer </h5>
     
-    **Photographer**
+    <h5> 📷 Photographer </h5>
 
 <br>
 <br>
 
-<h3>CONTACT ME</h3>
+<h2>CONTACT ME</h2>
 <p>https://www.linkedin.com/in/catarina-pintoferreira</p>
 <br>
 <br>
