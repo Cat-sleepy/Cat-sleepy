@@ -30,9 +30,11 @@ Driven by curiosity, attentive to detail, and deeply passionate about the inters
 
 <h2>HOWEVER IF YOU NEED A:</h2>
 
-    <p>**Visual Artist**</p>
-    <p>**Communication Designer**</p>
-    <p>**Photographer**</p>
+    **Visual Artist**
+    <br>
+    **Communication Designer**
+    <br>
+    **Photographer**
 
 <br>
 <br>
