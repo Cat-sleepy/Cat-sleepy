@@ -1,9 +1,41 @@
-## Hi there 👋
+<h1> This is Real ... This is Me </h1>
+
+When I am wake I do stuff as a Communication Designer and New Media Artist, moving between graphic design, multimedia, photography, and interactive art. My work flows across disciplines, but always returns to one core intention: to communicate ideas with visual intensity and technical care.
+
+At present, I develop visual materials for institutional and cultural communication, while nurturing an active artistic practice. My creative research explores themes such as identity, silence, and presence — through video, digital animation, AI-generated imagery, and live performance.
+
+As a visual storyteller, I seek to create experiences that resonate — images that breathe, move, and speak beyond words. I work with tools like Adobe Creative Suite, MadMapper, and other digital platforms, embracing a constant rhythm of learning and experimentation.
+
+Driven by curiosity, attentive to detail, and deeply passionate about the intersection of art, design, and technology, I believe in the power of images to evoke, to clarify, and to connect — whether in a street poster, an immersive installation, or a digital interface.
+
+
+<h3>EDUCATION: </h3>
+--->> ServiceNow  //  IPCA
+--->> Media Arts  //  uMinho
+--->> Multimedia Art  //  ISMAI
+--->> Photography  //  IPF 
+
+
+<h3>WHAT DID ALL OF THIS EDUCATION GAVE ME?</h3>
+--->> Anxiety
+--->> Night Terrors
+--->> Headaches
+--->> A little bit of Depression too
+  
+
+<h3>IF YOU NEED A:</h3>
+    **Visual Artist**
+    **Communication Designer**
+    **Photographer**
+
+
+
+<h3>CONTACT ME</h3>
+https://www.linkedin.com/in/catarina-pintoferreira
+        
+
 
 Night Night 😴
-
-
-**Formação Académica**: 
 
 
 <!--
