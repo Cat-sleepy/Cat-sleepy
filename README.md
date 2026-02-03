@@ -9,30 +9,38 @@ As a visual storyteller, I seek to create experiences that resonate — images t
 Driven by curiosity, attentive to detail, and deeply passionate about the intersection of art, design, and technology, I believe in the power of images to evoke, to clarify, and to connect — whether in a street poster, an immersive installation, or a digital interface.
 
 
+<br> 
+
+<p>------------------------------------------------</p>
 <h3>EDUCATION: </h3>
---->> ServiceNow  //  IPCA
---->> Media Arts  //  uMinho
---->> Multimedia Art  //  ISMAI
---->> Photography  //  IPF 
+<p>------------------------------------------------</p>
+<p>--->> ServiceNow  //  IPCA</p>
+<p>--->> Media Arts  //  uMinho</p>
+<p>--->> Multimedia Art  //  ISMAI</p>
+<p>--->> Photography  //  IPF</p>
+<br>
 
-
+<p>------------------------------------------------</p>
 <h3>WHAT DID ALL OF THIS EDUCATION GAVE ME?</h3>
---->> Anxiety
---->> Night Terrors
---->> Headaches
---->> A little bit of Depression too
-  
+<p>------------------------------------------------</p>
+<p>--->> Anxiety</p>
+<p>--->> Night Terrors</p>
+<p>--->> Headaches</p>
+<p>--->> A little bit of Depression too</p>
+<br>
 
+<p>------------------------------------------------</p>
 <h3>IF YOU NEED A:</h3>
-    **Visual Artist**
-    **Communication Designer**
-    **Photographer**
+<p>------------------------------------------------</p>
+    <p>**Visual Artist**</p>
+    <p>**Communication Designer**</p>
+    <p>**Photographer**</p>
 
-
+<br>
 
 <h3>CONTACT ME</h3>
-https://www.linkedin.com/in/catarina-pintoferreira
-        
+<p>https://www.linkedin.com/in/catarina-pintoferreira</p>
+<br>      
 
 
 Night Night 😴
